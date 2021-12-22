@@ -9,3 +9,92 @@ body {
   color: black;
   margin:0;
 } 
+.nav-bar{
+  display: flex;
+  flex-direction: row;
+  background-color: grey;
+}
+.instalogo{
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.cameralogo{
+  height: 50px;
+  height: 50px;
+  margin-left:1300px;
+  margin-top: 10px;
+}
+.insta-clone{
+  margin-left: 30px;
+  margin-top:25px;
+  font-size: 15px;
+}
+.post{
+  border: 2px solid grey;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.heading{
+  display:flex;
+  flex-direction: row;
+  justify-content: left;
+  padding-left: 10px;
+}
+.details{
+  width:460px ;
+}
+.dots{
+  margin-top: auto;
+  margin-bottom: auto;
+  float:right;
+}
+h1{
+  margin: 0%;
+  padding: 0%;
+}
+.location{
+  padding: 0%;
+  margin: 0%;
+}
+.post-image{
+  width: 500px;
+}
+.like{
+  width: 30px;
+  height: 30px;
+}
+.share{
+  width: 30px;
+  height: 30px;
+}
+.likesandshares{
+  display: flex;
+  flex-direction: row;
+}
+.likesandshares1,.likesandshares2{
+  margin-top: 5px;
+  margin-left: 3px;
+}
+.likesandshares3{
+  width: 450px;
+  padding-left: 340px;
+}
+.likes{
+  padding-left: 10px;
+}
+.likes p{
+  margin: 0%;
+  padding: 0%;
+}
+.description{
+  padding-left: 10px;
+}
+/* .description p{
+  margin: 0%;
+  padding: 0;
+} */
